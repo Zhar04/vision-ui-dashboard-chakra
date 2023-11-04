@@ -2,7 +2,7 @@
   "name": "vision-dashboard-chakra",
   "version": "1.0.1",
   "private": true,
-  "homepage": "https://github.com/Zhar04/ict_project.git",
+  "homepage": "https://zhar04.github.io/vision-ui-dashboard-chakra/",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.5",
     "@chakra-ui/react": "1.8.8",
